@@ -1,0 +1,201 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 1024px) {
+    .ul2 #ul1 .l1 {
+        margin-left: 20px;
+    
+    }
+    .ul2 .i1{
+        margin-left: 70px;
+        height: 20px;
+        margin-top: 15px;
+        box-shadow: 2px 3px 3px 2px rgb(153, 147, 136);
+    }
+
+
+
+
+} 
+
+
+
+
+
+@media screen and (max-width: 412px) {
+    .ic .i4 img{
+        margin-top: 10px;
+        height: 300px; 
+        margin-left: 10px;
+    }
+    .ul2 li{
+        display: none;
+    
+    }
+    .ul2 .i1{
+        margin-left: 90px;
+
+    }
+    .main .ic{
+        display: block;
+    }
+    .ic .hb{
+        margin-top: -190px;
+        margin-left: 40px;
+        width: 300px;
+        height: 280px;
+    
+    }
+    .ic .hb h3 {
+        position: relative;
+        top: 30px;
+    }
+    .ic .hb h1{
+        font-size: 30px;
+        margin-top: 50px;
+    }
+    .ic .hb button{
+        height: 40px;
+        width: 160px;
+        background-color: #A75B43;
+        color: #fff;
+        margin-top: 50px;
+        border: none;
+    }
+    .ul2 h1{
+        margin-left: 60px;
+        margin-top: 4px;  
+    }
+    .p p{
+        font-size: small;
+    }
+    /* baground color 1 div  */
+    .main .color1{
+        display: block;
+        margin-top: -230px;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    .color1{
+        height: 1300px;
+    }
+    .h26p h6{
+        position: relative;
+        top: 20px;
+        margin-left: 30px;
+    }
+    .h26p h2{
+        margin-top: 30px;
+        margin-left: 30px;
+    }
+    .h26p p{
+        margin-left: 30px;
+        margin-right: 75px;
+        margin-top: 20px;
+    }
+    .dimg .g1{ 
+    height: 220px;
+    position: relative;
+    left: 60px;
+    top: 30px;
+}
+.dimg .g2{
+    height: 220px;
+    position: relative;
+    left: 60px;
+    top: 30px;
+}
+.dimg .g3{
+    height: 220px;
+    position: relative;
+    left: 60px;
+    top: 30px;
+}
+.dimg .g4{
+    height: 315px;
+    position: relative;
+    left: 30px;
+    top: 30px;
+}
+/* 7 img wala div reet foto  */
+.g .gfotoa{
+    display: block;
+}
+.g .gfotob{
+    display: block;
+}
+.ee .xg{
+    margin-left: 20px;
+}
+
+.ee .colora{
+    height: 15px;
+    width: 15px;
+    background-color: #B6957E;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: -30px;
+}
+
+.ee p{
+    margin-left: 20px;
+}
+.ee h6{
+    margin-left: 20px;
+ }
+.ee .xm{
+    margin-left: 20px;
+}
+.g .b3{
+    width: 150px;
+    position: relative;
+    left: 100px;
+}
+/* ya div Best Sellers or 3 img wala ha */
+.main .himg .himga{
+    display: block;
+}
+.himg .himga #himgaa {
+    margin-left: 50px;
+    }
+    #himgbb h3 {
+        width: 250px;
+     } 
+     #himgaa h3 {
+        width: 250px;
+     } 
+     #himgcc h3 {
+        width: 250px;
+     } 
+     .himg .bgcolor{
+        background-color: #F4E8D8;
+        margin-top: 30px;
+        margin-left: 50px;
+        margin-right: 50px;
+        display: block;
+      }
+      .bgcolor .hpb p{
+        margin-top: 20px;
+        margin-left: 70px;
+        margin-right: 70px;
+        font-size: large;
+      }
+      .bgcolor .hpb button{
+        margin-left: 100px;
+     }
+    
+      .himg .img2{
+        display: block;
+        margin-left: 50px;
+      }
+    
+
+
+}
+
+
+
+
